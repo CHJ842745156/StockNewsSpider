@@ -18,3 +18,5 @@ soup = BeautifulSoup(HtmlStr,'lxml')
 #print(soup.find_all('a'))
 #print(soup)
 print(soup.prettify())
+
+print(soup)
